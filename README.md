@@ -16,7 +16,7 @@ Firmware for the Bitfortun BS-1 home Bitcoin miner (ESP32-S3 + BM1373).
 Bitfortun BS-1 is a compact, quiet single-chip Bitcoin miner designed for home use. This repository contains the open-source firmware that drives the device, providing a web dashboard, stratum mining support, and full control over frequency, voltage, and cooling.
 
 The code is derived from the broader open-source mining community and has been adapted specifically for the BS-1 hardware.
-
+BS-1 is like a newborn. It has many imperfections, and our team keeps working hard. We will resolve some of the issues via future firmware updates.
 ---
 
 ## Quick Start – Flashing
